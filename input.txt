@@ -1,0 +1,13 @@
+cat
+car
+cap
+capypara
+capital
+city
+center
+dog
+door
+doll
+apple
+apply
+application
